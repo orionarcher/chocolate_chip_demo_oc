@@ -1,8 +1,8 @@
 chocolate_chip_demo_OC
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/chocolate_chip_demo_oc/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/chocolate_chip_demo_oc/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/chocolate_chip_demo_OC/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/chocolate_chip_demo_OC/branch/main)
+[![GitHub Actions Build Status](https://github.com/orionarcher/chocolate_chip_demo_oc/workflows/CI/badge.svg)](https://github.com/orionarcher/chocolate_chip_demo_oc/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/orionarcher/chocolate_chip_demo_OC/branch/main/graph/badge.svg)](https://codecov.io/gh/orionarcher/chocolate_chip_demo_OC/branch/main)
 
 
 A demo for stuff.

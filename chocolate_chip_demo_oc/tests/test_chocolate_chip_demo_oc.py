@@ -13,3 +13,7 @@ import chocolate_chip_demo_oc
 def test_chocolate_chip_demo_oc_imported():
     """Sample test, will always pass so long as import statement worked."""
     assert "chocolate_chip_demo_oc" in sys.modules
+
+
+def test_addition():
+    assert 1 + 1 == 2
